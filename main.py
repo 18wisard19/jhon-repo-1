@@ -1,2 +1,3 @@
 #Main
-print("hello Word")
+nombre = "jhon"
+print(nombre)
